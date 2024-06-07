@@ -47,7 +47,7 @@ python server.py --host 127.0.0.1 --port 8888 --threads 8 --quarantine ./quarant
 ```
 
 Example 2:
-Start the server with default settings:
+Start the server with default settings and selected number of threads:
 ```bash
 python server.py --threads 8
 ```
