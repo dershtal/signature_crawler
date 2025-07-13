@@ -27,6 +27,8 @@ cd <signature_crawler>
 
 Запустите сервер с помощью следующей команды:
 ```bash
+python3 -m server.app
+
 python server.py --host <host> --port <port> --threads <number_of_threads> --quarantine <quarantine_directory> [--logging]
 ```
 Пример 1:

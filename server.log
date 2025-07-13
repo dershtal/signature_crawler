@@ -1,0 +1,25 @@
+2025-03-22 01:03:31,899 - INFO - Server initialized
+2025-03-22 01:03:31,899 - INFO - Starting server on 127.0.0.1:8888 with 8 threads
+2025-03-22 01:05:28,034 - INFO - Connection from ('127.0.0.1', 45238)
+2025-03-22 01:05:28,034 - ERROR - Error handling client: stat: path should be string, bytes, os.PathLike or integer, not NoneType
+2025-03-22 01:05:40,957 - INFO - Connection from ('127.0.0.1', 45916)
+2025-03-22 01:05:40,957 - ERROR - Error handling client: stat: path should be string, bytes, os.PathLike or integer, not NoneType
+2025-03-22 01:06:14,235 - INFO - Connection from ('127.0.0.1', 56548)
+2025-03-22 01:06:14,235 - INFO - Handled command CheckLocalFile with response {'offsets': 'not found'}
+2025-03-22 01:06:33,148 - INFO - Connection from ('127.0.0.1', 34880)
+2025-03-22 01:06:33,148 - INFO - Handled command CheckLocalFile with response {'offsets': 'not found'}
+2025-03-22 01:14:13,758 - INFO - Connection from ('127.0.0.1', 35340)
+2025-03-22 01:14:13,759 - INFO - Handled command CheckLocalFile with response {'offsets': [0]}
+2025-03-22 01:14:25,763 - INFO - Connection from ('127.0.0.1', 57004)
+2025-03-22 01:14:25,763 - INFO - Handled command CheckLocalFile with response {'offsets': [0]}
+2025-03-22 01:15:59,514 - INFO - Shutting down server
+2025-03-22 01:16:04,107 - INFO - Server initialized
+2025-03-22 01:16:04,107 - INFO - Starting server on 127.0.0.1:8888 with 8 threads
+2025-03-22 01:16:23,800 - INFO - Connection from ('127.0.0.1', 44892)
+2025-03-22 01:16:23,801 - INFO - Handled command CheckLocalFile with response {'offsets': 'not found'}
+2025-03-22 01:16:31,227 - INFO - Connection from ('127.0.0.1', 53740)
+2025-03-22 01:16:31,228 - INFO - Handled command CheckLocalFile with response {'offsets': [0]}
+2025-03-22 01:17:16,025 - INFO - Connection from ('127.0.0.1', 59906)
+2025-03-22 01:17:16,025 - INFO - Handled command CheckLocalFile with response {'offsets': [4]}
+2025-03-22 01:18:20,519 - INFO - Connection from ('127.0.0.1', 50506)
+2025-03-22 01:18:20,519 - INFO - Handled command QuarantineLocalFile with response {'status': 'File quarantined', 'quarantine_path': './quarantine/test.txt'}
